@@ -1,0 +1,59 @@
+{
+  "logfilename": "master.log",
+  "trialmode": true,
+  "watchdog_time": 1000,
+  "filterport": 50500,
+  "calibport": 50505,
+  "guiderport": 50508,
+  "camcomport": 50510,
+  "camimport": 50550,
+  "tempmax": 10.0,
+  "tempmin": -120.0,
+  "expmax": 3600,
+  "expmin": 1,
+  "darkno": 49,
+  "overscanno": 200,
+  "applno": 4096,
+  "lpfno": 4112,
+  "ccdno": 2,
+  "sno": [
+    "003-050419",
+    "002-050419"
+  ],
+  "freqsno": 3,
+  "freqs": [
+    100,
+    200,
+    300
+  ],
+  "gainsno": 3,
+  "gains": [
+    1.0,
+    2.0,
+    3.0
+  ],
+  "sampsno": 5,
+  "samps": [
+    10,
+    12,
+    15,
+    16,
+    17
+  ],
+  "channsno": 3,
+  "channs": [
+    1,
+    2,
+    4
+  ],
+  "latitude": 35.2119,
+  "longitude": 24.8992,
+  "elevation": 1750.0,
+  "origin": "Univ. Crete, Dept. Physics, Skinakas Observatory, FORTH, IA",
+  "telescope": "Skinakas 1.3m Telescope",
+  "instrument": "WALOPNorth",
+  "aperture": 1290,
+  "detectors": "4x e2v CCD231-84",
+  "saturation": 65535,
+  "tzone": "Eastern European Summer Time"
+}
